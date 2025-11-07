@@ -4,8 +4,8 @@
 
 ### AI Researcher-in-Progress | Full-Stack Developer | Tech Innovator
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-jais07)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Saurabhjais07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waitin4asi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/waitin4asi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhjaiswal.dev@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=waitin4asi&color=0e75b6&style=for-the-badge)](https://github.com/waitin4asi)
 
@@ -147,7 +147,6 @@ const saurabh = {
 I'm actively seeking collaboration opportunities in:
 
 - 🧠 **AI/ML Projects** - Research, implementation, and deployment
-- 🏥 **Mental Health Tech** - Building accessible solutions
 - 📚 **Education Technology** - Making learning more effective
 - 🌱 **Social Impact Projects** - Technology for good
 - 🚀 **Startup Initiatives** - Early-stage product development
@@ -184,8 +183,8 @@ I believe in:
 
 **Let's connect and build something amazing together!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saurabh-jais07)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Saurabhjais07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/waitin4asi)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/waitin4asi)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:saurabhjaiswal.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/waitin4asi)
 
